@@ -1,0 +1,19 @@
+# ===== BACKEND (Spring Boot) =====
+/backend/build/
+/backend/out/
+/backend/.idea/
+/backend/*.iml
+/backend/*.log
+/backend/.env
+/backend/application.properties
+
+# ===== FRONTEND (React or Next.js) =====
+/frontend/node_modules/
+/frontend/.next/
+/frontend/.env
+/frontend/.env.local
+/frontend/.vscode/
+/frontend/.DS_Store
+
+# ===== GLOBAL =====
+.DS_Store
