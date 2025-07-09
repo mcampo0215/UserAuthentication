@@ -10,4 +10,4 @@
 2. Open the frontend using VS Code or preferred IDE. Run using __npm run dev__ and open the localhost link in your web browser
 
 ## <ins>Important Links</ins>
-* Linke to sample __application.properties__ file [HERE](https://github.com/mcampo0215/UserAuthentication/blob/main/backend/src/main/resources/application.sample.properties)
+* Link to sample __application.properties__ file [HERE](https://github.com/mcampo0215/UserAuthentication/blob/main/backend/src/main/resources/application.sample.properties)
